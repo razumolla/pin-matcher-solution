@@ -35,7 +35,7 @@ document.getElementById('key-pad').addEventListener('click',
     }
 );
 
-//  submit button event handler
+//class-28.7:  submit button event handler
 
 function verifyPin() {
     const randomPin = document.getElementById('display-pin').value;
@@ -53,3 +53,5 @@ function verifyPin() {
 
     }
 }
+
+// Please Try It Again!!
